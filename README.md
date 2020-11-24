@@ -1,2 +1,5 @@
 # hello-world
-Repository to store ideas &amp; resources
+
+Hi Humans! Steve here.
+
+I roast, brew, drink and love coffee.  I also have a brand new puppy.
