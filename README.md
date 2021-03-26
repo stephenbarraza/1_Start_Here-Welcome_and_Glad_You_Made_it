@@ -1,4 +1,4 @@
-# Welcome and what's goin' on here.
+# What's goin' on here.
 
 If you're here, you're interested in some part of me.  So, off the bat, I offer you a welcome!  Come on in and check out what interests you.
 
