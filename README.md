@@ -2,9 +2,9 @@
 
 If you're here, you're interested in some part of me.  So, off the bat, I offer you a welcome!  Come on in and check out what interests you.
 
-Each repository will showcase something I have worked on or am currently working on.  Each one will contain a README.md doc (like this one) describing what you will find in repository along with a with "Why Did this Interest Me and What was I Hoping to Get Out of It?" section.  Finally, every other README.md doc (except for this one) will also contain various documents that I have created or in which I've participated.
+Each repository that I present in my profile will showcase something I have worked on or am currently working on.  Each one will contain a README.md doc (like this one) describing what you will find in repository along with a with "Why Did this Interest Me and What was I Hoping to Get Out of It?" section.  Finally, every other README.md doc (except for this one) will also contain various documents that I have created or in which I've participated.
 
-# Why Did this Interest Me and What was I Hoping to Get Out of It?
+## Why Did this Interest Me and What was I Hoping to Get Out of It?
 
 I made a career out of engineering, data analysis and quality control.  I worked many years as a Six Sigma Black Belt for a major Telecom.  I found, and continue to find, Six Sigma/LEAN a wonderful approach to project management in relation to quality control via process improvement and waste mitigation.  
 
