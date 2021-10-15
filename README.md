@@ -10,7 +10,7 @@ I made a career out of engineering, data analysis and quality control.  I worked
 
 The area within Six Sigma/Lean that I found could be improved upon was an automated approach to data retrieval, analysis and visualization.  It's in this area that I focused on learning a new set of skills.  With minimal programing experience, I took Udacity's Data Analysis Nanodegree (DANd) with the intention of learning Python (and it's suite of Data Analysis libraries, Pandas & Numpy) in order to automate my data retrieval and anlysis tasks.  I learned that and more, of course.
 
-I then turned my attention to what wasn't addressed in Udcacity's DANd: SQL, R & Tableau.  I found those skills available to me through the Google Data Analytics Cetertificate and began a secondary study which makes it's place here, as well.
+I then turned my attention to what wasn't addressed in Udcacity's DANd: SQL, R & Tableau.  I found those skills available to me through the Google Data Analytics Certificate and began a secondary study which makes it's place here, as well.
 
 Life isn't just Data Analysis (thank goodness).  So, I roast, brew, drink and love coffee.  I pull my own shots on my vintage espresso machine.  I LOVE music.  I love creating sound and I love math (they go perfectly hand in hand together).  I also have a brand new bull terrier puppy named Willie.  I mountain bike the local trails around my house.  My guess is that all of these things, in some way, will make it on the pages here.  I know GIT is primarily for version control but sorry, my mind doesn't box things up that way.  Everything can be explored and plotted here, though Github.
 
