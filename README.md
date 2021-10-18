@@ -2,7 +2,7 @@
 
 If you're here, you're interested in some part of me.  So, off the bat, I offer you a welcome!  Come on in and check out what interests you.
 
-Each repository that I present in my profile will showcase something I have worked on or am currently working on.  Each one will contain a README.md doc (like this one) describing what you will find in repository along with a "Why Did this Interest Me and What was I Hoping to Get Out of It?" section.  Finally, every other README.md doc (except for this one) will also contain various documents that I have created or in which I've participated.
+Github is a type of software version control.  However, until I have others with whom to interact and share programs (and then have the need to control versions of software), for the time being I will use github as a series of personal repositiories .  Each repository that I present in my profile will showcase something I have worked on or am currently working on.  Each one will contain a README.md doc (like this one) describing what you will find in repository along with a "Why Did this Interest Me and What was I Hoping to Get Out of It?" section.  Finally, every other README.md doc (except for this one) will also contain various documents that I have created or in which I've participated.
 
 ## Why Did this Interest Me and What was I Hoping to Get Out of It?
 
